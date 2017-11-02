@@ -58,9 +58,9 @@ pystoragecomposed_pystorage_1 exited with code 0
 
 There is *no license* for pystorage, see [explanation](https://choosealicense.com/no-license/) for details.
 
-In a short hand, you can't use pystorage code without my direct permission.
+In a short hand, you can't use [pystorage](https://github.com/qezz/pystorage) code without my direct permission.
 
-Usage allowed within [this particular composed environment](mishin.sergey/pystorage-composed).
+Usage allowed within [this particular composed environment](pystorage-composed).
 
 ### Docker images and composed env ###
 
