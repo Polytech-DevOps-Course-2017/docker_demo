@@ -46,6 +46,11 @@ pystoragecomposed_mongo_1 exited with code 0
 pystoragecomposed_pystorage_1 exited with code 0
 ```
 
+## Docker Hub ##
+
+* pystorage http://hub.docker.com/r/qezz/pystorage/
+* mongo-dumb-setup https://hub.docker.com/r/qezz/mongo-dumb-setup/
+
 ## Internals
 
 * Mongo uses "admin":"admin" as a root user for "admin" database
