@@ -69,7 +69,7 @@ Usage allowed within [this particular composed environment](pystorage-composed).
 
 ### Docker images and composed env ###
 
-MIT or Apache 2.0 at your choice.
+Beer-Ware or WTFPL, at your choice.
 
 ## Author
 
