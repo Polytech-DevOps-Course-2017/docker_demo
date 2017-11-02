@@ -6,4 +6,4 @@ ENV MONGO_INITDB_ROOT_PASSWORD "admin"
 ENTRYPOINT ["docker-entrypoint.sh"]
 
 EXPOSE 27017
-CMD ["mongod > mongolog"]
+CMD ["mongod"]

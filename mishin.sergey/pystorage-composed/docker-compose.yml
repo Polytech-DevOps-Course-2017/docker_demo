@@ -5,6 +5,8 @@ services:
     hostname: mongo
     links:
     - pystorage
+    logging:
+      driver: "none"
   pystorage:
     image: qezz/pystorage:0.1
     hostname: pystorage
