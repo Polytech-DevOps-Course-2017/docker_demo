@@ -10,14 +10,14 @@ You can download image [here](https://hub.docker.com/r/mrsandmanrus/vaadinsimple
 ## Quick start
 
 ### First way
-`docker pull mrsandmanrus/vaadinsimpleexample`
+* `docker pull mrsandmanrus/vaadinsimpleexample`
 
-`docker run -p 127.0.0.1:8080:8080 mrsandmanrus/vaadinsimpleexample`
+* `docker run -p 127.0.0.1:8080:8080 mrsandmanrus/vaadinsimpleexample`
 
 ### Second way
 Clone this repo and go to: docker_demo/vitaliy-monastyrev/vaadin-simple-example
 
-`docker-compose up`
+* `docker-compose up`
 
 ## Result
 Go to 127.0.0.1:8080.
