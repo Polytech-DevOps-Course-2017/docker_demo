@@ -1,0 +1,5 @@
+vaadinsimpleexample:
+    container_name: vaadinsimpleexample
+    build: vaadin_image
+    ports:
+    - "8080:8080"
