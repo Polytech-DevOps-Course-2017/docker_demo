@@ -11,4 +11,4 @@ Run Command: `docker run -d -P nginx-test`
 IP Address: `docker-machine ip`  
 Port: `docker ps`  
 `CONTAINER ID ... PORTS ...`  
-`4496b83cca28     0.0.0.0:32778->80/tcp ...`
+`4496b83cca28 ... 0.0.0.0:32778->80/tcp ...`
