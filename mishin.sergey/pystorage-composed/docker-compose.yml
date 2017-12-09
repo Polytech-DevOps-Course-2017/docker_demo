@@ -1,0 +1,14 @@
+version: '3'
+services:
+  mongo:
+    image: qezz/mongo-dumb-setup:0.1
+    hostname: mongo
+    links:
+    - pystorage
+    logging:
+      driver: "none"
+  pystorage:
+    image: qezz/pystorage:0.1
+    hostname: pystorage
+volumes:
+  logvolume01: {}
